@@ -1,9 +1,9 @@
 # LibraryDatabase
 
-Run _AppUI.py_ to start the program, in Anaconda for ease of use.
+# LibraryDatabase
+A Command line simulation of a simple Library Database System using SQLite
 
-Make sure you are using Python 3.10 or later, as our project depends on some of those features.
+## Running the Application
+Run `AppUI.py` using `python AppUI.py`to start the program, in [Anaconda](https://www.anaconda.com/) for ease of use.
 
-We have also included a charge feature that charges for overdue books and allows users to pay off their charges.
-
-You may also register a new user. Play around with the app.
+The minimum requirement is Python 3.10 but I recommend downloading the latest version from [here](https://www.python.org/downloads/)
