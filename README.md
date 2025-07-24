@@ -1,6 +1,4 @@
 # LibraryDatabase
-
-# LibraryDatabase
 A Command line simulation of a simple Library Database System using SQLite
 
 ## Running the Application
